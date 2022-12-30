@@ -11,17 +11,12 @@
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	/*decleration*/
-	int x, y;
-	x = 0;
-	y = 0;
+	unsigned int i;
 
-	/*Statement*/
-	while (n > 0)
+	for (i = 0; i < n; i++)
 	{
-		dest[x] = src[y];
-		x++;
-		y++;
-		n--;
+		dest[i] = src[i];
 	}
+
 	return(dest);
 }
