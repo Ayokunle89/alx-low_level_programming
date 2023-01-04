@@ -6,3 +6,4 @@ C - More pointers, arrays and strings
 3. Creating a function that compares two strings
 4. function that reverses the content of an array of integers.
 5. Creating a function that changes all lowercase letters of a string to uppercase.
+6. Creating a function that capitalizes all words of a string.
