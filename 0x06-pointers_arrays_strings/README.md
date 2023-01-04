@@ -12,3 +12,4 @@ C - More pointers, arrays and strings
 9. Creating a function that prints an integer.
 10. Magic
 11. Creating a function that adds two numbers.
+12. Creatng a function that prints a buffer.
