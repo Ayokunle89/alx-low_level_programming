@@ -11,3 +11,4 @@ C - More pointers, arrays and strings
 8. Creating a function that encodes a string using rot13.
 9. Creating a function that prints an integer.
 10. Magic
+11. Creating a function that adds two numbers.
