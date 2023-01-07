@@ -6,3 +6,4 @@ C - Even more pointers, arrays and strings
 3. Creating a function that gets the length of a prefix substring.
 4. Creating a function that searches a string for any of a set of bytes.
 5. Writing a function that locates a substring.
+6. Writing a function that prints the chessboard.
